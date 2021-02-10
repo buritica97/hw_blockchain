@@ -70,5 +70,5 @@ Refer to Connecting_to_MyCyrpto.mov and to Sending_Transactions.mov to learn how
 - The **--bootnodes** flag allows you to pass the network info needed to find other nodes in the blockchain. This will allow us to connect both of our nodes.
 - The **--rpc** flag enables us to talk to our second node, which will allow us to use MyCrypto or Metamask to transact on our chain.
 
-**Source** 
+**Source:** 
 https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-fin-pt-09-2020-u-c/-/tree/master/18-Blockchain

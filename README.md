@@ -1,6 +1,14 @@
 # hw_blockchain
 Homework #18: Proof of Authority Development Chain
 
+The **Proof of Authority (PoA)** algorithm is typically used for private blockchain networks as it requires pre-approval of, or voting in of, the account addresses that can approve transactions (seal blocks).
+
+## Install MyCrypto Desktop App 
+
+MyCrypto is a free, open-source, client-side interface that allows you to interact directly with the blockchain. MyCrypto Desktop App allows you to manage ethereum wallets and make transactions in the blockchain.
+
+https://www.mycrypto.com
+
 ## Network Configuration
 
 **Chain ID:** 555

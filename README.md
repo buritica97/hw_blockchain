@@ -60,7 +60,9 @@ val********
 enode://86ce5caa1bf8a326aa438b029011a16383e140abdc30ce2666eabe6a0e04546070ff9dde9d83793cb061b6ff819eec2658533217c8bdd056bb59417b8dd84cd0@127.0.0.1:30303
 
 ### Connecting to MyCyrpto 
-Refer to Connecting_to_MyCyrpto.mov and to Sending_Transactions.mov to learn how to connect your 
+Refer to Connecting_to_MyCyrpto.mov and to Sending_Transactions.mov to learn how to connect your custom chain. 
+
+
 
 ### geth Flags
 - The **--mine** flag tells the node to mine new blocks.
